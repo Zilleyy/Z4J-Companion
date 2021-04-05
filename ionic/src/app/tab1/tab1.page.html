@@ -1,17 +1,27 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>
-      Tab 1
+      *ngFor Example
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Tab 1</ion-title>
-    </ion-toolbar>
-  </ion-header>
+  <div class='ngFor ion-margin'>
+    <!--
+    ngFor loop here loops over each entry in Example Array.
+    Sets the value of the object at each loop to "Object" so values can be accessed via "Object.properties".
+    -->
+    <ion-card *ngFor='let Object of ExampleArray'> <!-- If you are using a HTTP call to fetch the values of an array to iterate over, use an async pipe.-->
+      <ion-card-header>
+        <h3>{{Object.key}}</h3> <!--Interpolating Object.key-->
+      </ion-card-header>
+      <ion-card-content>
+        <p>{{Object.value}}</p> <!--Interpolating Object.value-->
+      </ion-card-content>
+    </ion-card>
+    <!-- Click of button to call eppend function -->
+    <ion-button (click)="append()" color="primary">Click Me</ion-button>
+  </div>
 
-  <app-explore-container name="Tab 1 page"></app-explore-container>
 </ion-content>
