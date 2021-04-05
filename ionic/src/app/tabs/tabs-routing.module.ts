@@ -8,35 +8,27 @@ const routes: Routes = [
     component: TabsPage,
     children: [
       {
-        path: 'tab1', //Path specified here will be referenced in the HTML page.
-        loadChildren: () => import('../tab1/tab1.module').then(m => m.Tab1PageModule)
+        path: 'moderation', //Path specified here will be referenced in the HTML page.
+        loadChildren: () => import('../moderation-tab/moderation.module').then(m => m.ModerationPageModule)
       },
       {
-        path: 'tab2',
-        loadChildren: () => import('../tab2/tab2.module').then(m => m.Tab2PageModule)
+        path: 'console',
+        loadChildren: () => import('../console-tab/console.module').then(m => m.ConsolePageModule)
       },
       {
-        path: 'tab3',
-        loadChildren: () => import('../tab3/tab3.module').then(m => m.Tab3PageModule)
+        path: 'settings',
+        loadChildren: () => import('../settings-tab/settings.module').then(m => m.SettingsPageModule)
       },
-      /* New tab exmaple
-
-      {
-        path: 'myPage',
-        loadChildren: () => import('../relative/path/to/myPage.module').then(m => m.myPageeModule)
-      },
-
-      */
       {
         path: '',
-        redirectTo: '/tabs/tab1',
+        redirectTo: '/tabs/moderation',
         pathMatch: 'full'
       }
     ]
   },
   {
     path: '',
-    redirectTo: '/tabs/tab1',
+    redirectTo: '/tabs/moderation',
     pathMatch: 'full'
   }
 ];
