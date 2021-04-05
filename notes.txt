@@ -1,0 +1,16 @@
+Ionic Notes:
+
+- Components vs Pages
+    - Ionic pages are different from components. Components are ONLY meant to be part of a page unlike angular were a component can act as a full on page.
+    - Each page essentially acts as it's own module. SO if you want to import another component or package into a specific page, dont forget to import it through the page.module.ts file.
+    - For example, the explore-container component in this app is a good example of how a component should be used. It is just a section of the Tab pages.
+    - To create a new page, use command ionic g page path/to/name-of-page.
+
+
+-Tabs
+    - Tabs can be set through the tabs module under src/app/tabs
+    - tabs-routing.module.ts defines the path to each page. 
+    - tabs.page.html defines the layout for the bottom tabs.
+    - View tabs-routing.module.ts line 11 and tabs.page.html line 4 for insightful comment on how tabs routing works.
+    - If you want to add a new page to the tab list, use the same declaration as the other 3 tabs to import it into the tab list and add it to your HTML. 
+        - See tabs.page.html line 19 and tabs-routing.module line 22 for example. 
