@@ -1,17 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b082f5fd-2a56-4014-a437-accbc0a46a37" name="Default Changelist" comment="App files">
+      <change afterPath="$PROJECT_DIR$/ionic/src/app/console-tab/console.page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ionic/src/app/moderation-tab/moderation.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app" beforeDir="false" afterPath="$PROJECT_DIR$/app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/explore-container/explore-container.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/explore-container/explore-container.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/explore-container/explore-container.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/explore-container/explore-container.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab1/tab1-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/console-tab/console-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab1/tab1.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/moderation-tab/moderation.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab1/tab1.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/moderation-tab/moderation.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab1/tab1.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/console-tab/console.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab1/tab1.page.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/moderation-tab/moderation.page.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab1/tab1.page.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab2/tab2-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/moderation-tab/moderation-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab2/tab2.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/console-tab/console.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab2/tab2.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/console-tab/console.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab2/tab2.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/moderation-tab/moderation.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab2/tab2.page.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/console-tab/console.page.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab2/tab2.page.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab3/tab3-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/settings-tab/settings-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab3/tab3.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/settings-tab/settings.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab3/tab3.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/settings-tab/settings.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab3/tab3.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/settings-tab/settings.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab3/tab3.page.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/settings-tab/settings.page.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tab3/tab3.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/settings-tab/settings.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tabs/tabs-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/tabs/tabs-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/tabs/tabs.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/tabs/tabs.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ionic" />
   </component>
   <component name="ProjectId" id="1qgh2vdoC4nWDUTnlOujphTX2RS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,13 +72,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="ts.external.directory.path" value="C:\Users\coope\WebstormProjects\Z4J-Companion\app\node_modules\typescript\lib" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="C:\Users\coope\WebstormProjects\Z4J-Companion\ionic\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug" type="JavascriptDebugType" uri="http://localhost:8100">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,6 +96,8 @@
       <option name="presentableId" value="Default" />
       <updated>1617506936439</updated>
       <workItem from="1617506937499" duration="6353000" />
+      <workItem from="1617516847356" duration="2316000" />
+      <workItem from="1617581655238" duration="12747000" />
     </task>
     <task id="LOCAL-00001" summary="App files">
       <created>1617516568345</created>
@@ -45,21 +106,55 @@
       <option name="project" value="LOCAL" />
       <updated>1617516568345</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="App files">
+      <created>1617517077092</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617517077092</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/app" />
+    </ignored-roots>
     <MESSAGE value="App files" />
     <option name="LAST_COMMIT_MESSAGE" value="App files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="447" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617512288261">
+    <state x="794" y="202" key="#Web_Browsers" timestamp="1617528043392">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="447" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1617512288261" />
+    <state x="794" y="202" key="#Web_Browsers/0.0.1536.824@0.0.1536.824" timestamp="1617528043392" />
+    <state x="447" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617582248921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1617582248921" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1617582292869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1617582292869" />
+    <state x="438" y="191" key="EditFileWatcherDialog" timestamp="1617584668575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="438" y="191" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1617584668575" />
     <state x="548" y="179" key="FileChooserDialogImpl" timestamp="1617516413948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -76,29 +171,89 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="520" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1617516502828" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1617516837391">
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1617528210648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617516837391" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1617516837391">
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617528210648" />
+    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1617528210648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617516837391" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1617516837391">
+    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617528210648" />
+    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1617528210648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617516837391" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1617516837391">
+    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617528210648" />
+    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1617528210648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617516837391" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1617507066672">
+    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617528210648" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1617528210471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617507066672" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1617516577569">
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617528210471" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1617528210471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617516577569" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1617528210471" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1617528210471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1617528210471" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1617528210471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1617528210471" />
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom" timestamp="1617528210471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617528210471" />
+    <state width="1515" height="261" key="GridCell.Tab.2.center" timestamp="1617528210471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1617528210471" />
+    <state width="1515" height="261" key="GridCell.Tab.2.left" timestamp="1617528210471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1617528210471" />
+    <state width="1515" height="261" key="GridCell.Tab.2.right" timestamp="1617528210471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1617528210471" />
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom" timestamp="1617528210471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617528210471" />
+    <state width="1515" height="261" key="GridCell.Tab.3.center" timestamp="1617528210471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1617528210471" />
+    <state width="1515" height="261" key="GridCell.Tab.3.left" timestamp="1617528210471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1617528210471" />
+    <state width="1515" height="261" key="GridCell.Tab.3.right" timestamp="1617528210471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1617528210471" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1617584664120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617584664120" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1617517844930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617517844930" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617603831613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1617603831613" />
+    <state x="632" y="298" width="348" height="298" key="org.angular.cli.generate" timestamp="1617602654456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="632" y="298" width="348" height="298" key="org.angular.cli.generate/0.0.1536.824@0.0.1536.824" timestamp="1617602654456" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1617581834263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1617581834263" />
   </component>
 </project>
