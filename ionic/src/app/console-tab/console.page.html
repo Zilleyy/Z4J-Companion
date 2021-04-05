@@ -7,5 +7,39 @@
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <app-explore-container name="Console page"></app-explore-container>
+
+  <ion-card class='ion-margin'>
+    <ion-card-header>
+      <ion-card-title>
+        Ion Reorder
+      </ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      <ion-reorder-group disabled="false" (ionItemReorder)="doReorder($event)">
+        <ion-item *ngFor='let info of information'>
+          <ion-reorder slot="start"></ion-reorder>
+          <ion-label>
+            {{info}}
+          </ion-label>
+        </ion-item>
+      </ion-reorder-group>
+    </ion-card-content>
+  </ion-card>
+
+  <br>
+
+  <ion-card>
+    <ion-card-header>
+      <ion-card-title>
+        Ion Button
+      </ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      <p> Button has been pushed {{ counter }} times </p>
+      <ion-button (click)='buttonFunction()' color='secondary'>
+        Button
+      </ion-button>
+    </ion-card-content>
+  </ion-card>
+
 </ion-content>
