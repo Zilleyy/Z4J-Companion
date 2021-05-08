@@ -22,26 +22,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b082f5fd-2a56-4014-a437-accbc0a46a37" name="Default Changelist" comment="Renamed stuff">
-      <change afterPath="$PROJECT_DIR$/ionic/src/app/channels-tab/channels.page.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ionic/src/app/message/message.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ionic/src/app/message/message.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ionic/src/app/message/message.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ionic/src/app/message/message.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ionic/src/app/theme.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ionic/src/app/theme.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ionic/src/assets/avatar.svg" afterDir="false" />
+    <list default="true" id="b082f5fd-2a56-4014-a437-accbc0a46a37" name="Default Changelist" comment="Messages, text input...">
+      <change afterPath="$PROJECT_DIR$/ionic/src/app/flags.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_04_2021_10_19_am_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_04_2021_10_19_am__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ionic/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ionic/src/app/console-tab/console-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/channels-tab/channels-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ionic/src/app/console-tab/console.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/channels-tab/channels.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ionic/src/app/console-tab/console.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/channels-tab/channels.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ionic/src/app/console-tab/console.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/channels-tab/channels.page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ionic/src/app/console-tab/console.page.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/channels-tab/channels.page.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ionic/src/app/console-tab/console.page.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ionic/src/app/settings-tab/settings.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/settings-tab/settings.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ionic/src/app/tabs/tabs-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/tabs/tabs-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ionic/src/app/tabs/tabs.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/tabs/tabs.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/channels-tab/channels.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/channels-tab/channels.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/channels-tab/channels.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/channels-tab/channels.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/channels-tab/channels.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/channels-tab/channels.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/message/message.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/message/message.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/message/message.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/message/message.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/settings-tab/settings.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/settings-tab/settings.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/app/settings-tab/settings.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/app/settings-tab/settings.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic/src/theme/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ionic/src/theme/variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +98,10 @@
       <workItem from="1617853123302" duration="11720000" />
       <workItem from="1618016258044" duration="115000" />
       <workItem from="1618016387691" duration="546000" />
-      <workItem from="1618016947852" duration="13421000" />
+      <workItem from="1618016947852" duration="18440000" />
+      <workItem from="1618098950803" duration="12884000" />
+      <workItem from="1618637732672" duration="1674000" />
+      <workItem from="1619327939339" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="App files">
       <created>1617516568345</created>
@@ -128,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617604228433</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Messages, text input...">
+      <created>1618035291310</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618035291310</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +156,8 @@
     </ignored-roots>
     <MESSAGE value="App files" />
     <MESSAGE value="Renamed stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed stuff" />
+    <MESSAGE value="Messages, text input..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Messages, text input..." />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="53" key="#Plugins" timestamp="1618016937697">
@@ -276,10 +280,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="555" y="128" key="VCS.ChangeListViewerDialog/0.0.1536.824@0.0.1536.824" timestamp="1617604248005" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1617604362381">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1618035339879">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617604362381" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1618035339879" />
+    <state x="120" y="129" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618106788075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="120" y="129" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1618106788075" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617605704886">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
