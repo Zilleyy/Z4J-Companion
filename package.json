@@ -4,12 +4,17 @@
   "description": "The mobile companion app for the Z4J Discord bot.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ionic serve"
   },
   "author": "Cooper Cowley",
   "license": "ISC",
   "devDependencies": {
     "tslint": "^5.12.1",
     "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "ng-socket-io": "^0.2.4"
   }
 }
